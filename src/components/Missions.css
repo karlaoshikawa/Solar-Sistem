@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Roboto&family=Tomorrow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+.mission-container {
+  display: flex;
+  justify-content: center;
+}
+
+.mission-box {
+  align-items: center;
+  column-gap: 3rem;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 3rem 0 6rem;
+  row-gap: 3rem;
+
+  /* max-width: 300rem; */
+  width: 96%;
+}
+
+.mission-card {
+  border: 2px solid #868e96;
+  border-radius: 10px;
+  color: #868e96;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1.8rem;
+  height: 8rem;
+  text-align: center;
+     display: grid;
+  place-content: center;
+}
+
+.mission-card:hover {
+  border: 2px solid #adb5bd;
+  color: #adb5bd;
+}
+
+.mission-card:active {
+  border: 2px solid #dee2e6;
+  color: #dee2e6;
+}
+
+/* .mission-text {
+   display: grid;
+  place-content: center;
+} */
+
+.mission-title {
+  color: #adb5bd;
+  font-family: 'Roboto' , sans-serif;
+  font-size: 2.4rem;
+  padding-top: 5rem;
+}
+
+.modal-background {
+  align-items: center;
+  backdrop-filter: blur(10px);
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+}
+
+.modal-container {
+  backdrop-filter: blur(100px);
+  background: #001d3d;
+  display: flex;
+  flex-direction: column;
+  height: 90rem;
+  position: absolute;
+  text-align: left;
+  width: 80rem;
+  z-index: 10;
+  overflow-y: scroll;
+}
+
+.modal-name {
+  padding: 3rem 0 2rem;
+  text-align: center;
+}
+
+.modal-image {
+  align-self: center;
+  width: 60rem;
+  object-fit: contain;
+  aspect-ratio: 16/9;
+}
+
+.modal-p {
+  padding: 0.4rem 3.2rem;
+  line-height: 1.5;
+}
+
+.modal-p:last-child {
+  padding-bottom: 3.2rem;
+  font-size: 1.2rem;
+  color: #868e96;
+}
+
+.fechar {
+  margin: 20px;
+  height: 40px;
+  width: 40px;
+  border: 2px solid  #adb5bd;
+  border-radius: 100%;
+  display: grid;
+  place-content: center;
+  align-self: flex-end;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+ .fechar p {
+  line-height: 1;
+ }

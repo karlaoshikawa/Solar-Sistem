@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,300;0,400;0,900;1,500&family=Tomorrow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,200;1,300;1,400;1,500;1,600&display=swap') ;
+
+header {
+  align-items: center;
+  background-color: #001d3d;
+  box-shadow: 0 0 5px #000814;
+  display: flex;
+
+  /* Because we want header to be sticky later */
+  height: 6.4rem;
+  justify-content: flex-start;
+  padding: 0 4.8rem;
+}
+
+h1 {
+  color: #ffc300;
+  font-family: Orbitron , sans-serif;
+  font-size: 3rem;
+  font-weight: 500;
+  line-height: 1.05;
+  text-transform: uppercase;
+}
