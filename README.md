@@ -1,70 +1,39 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Solar Sistem
 
-## Available Scripts
+Projeto frontend da Trybe em React. Fiz uma releitura do CSS proposto para aprimorar meus conhecimentos, ultilizando grid e animação e acrescentei um modal com imagem e descrição das missões espaciais.
 
-In the project directory, you can run:
 
-### `npm start`
+## Link
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[Solar Sistem deploy](https://solar-sistem.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![App Screenshot](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUM60OnThhVBq3NtlcGMRFP75FIYBAEEeZlnvwhF46juMVhxNI1tX-StZQjYLtase-y1gYnxLC_8JRI-LE72UFVEEkbPXPX7r8NOuSEVoL_T1I8io_31h957cEez4QcnE4VmRjqbHBI56a3VZrRooHH-3mNnyZk5squ3YKFs9MdPz22SVEMRVocaaI/s1600/Captura%20de%20Tela%202023-01-31%20a%CC%80s%2021.42.40.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Stack utilizada
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Front-end:** React, CSS, JavaScript
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Aprendizados
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Este projeto foi um grande desafio de CSS, aprendi muito e estou ciente dos pontos a serem trabalhados futuramente.
+## Contribuidores
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [Pedro Silva](https://github.com/opedrodev)
+  Grande contribuição para resolver problemas no CSS.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Tarcisio Ribeiro Sacramento](https://github.com/Tarseason)
+  Companheiro da madrugada para resolver os alinhamentos do CSS.
 
-## Learn More
+- [Caio Iack](https://github.com/JackCaio)
+  Consultor particular, sempre pronto para resolver qualquer bug.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Proposta da Trybe
+[Trybe Layout](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0Lfmy_pF0sJc7eQKT0Rrap2fSU707Mdx514NGh0nEnNqJXvSPK3p2elDS_Jf90Mc8W6iwbCw7cMuVKG7pHBgvJ8I1hADpFepEKlciSHEgWq0XYmrDJAEwfgQQ1gYUDyBKT1U1RY2nq-XPUlSXs0wC1Z_2N4A5YD6rSc-aWy2E9sBk7pMH7alwqR1P/s1600/Solar%20System.jpg)
